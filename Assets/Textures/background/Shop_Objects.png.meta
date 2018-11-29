@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 83e4ff627c95fa645b60378271919381
+timeCreated: 1473622359
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shop_Objects_0
+    21300002: Shop_Objects_1
+    21300004: Shop_Objects_2
+    21300006: Shop_Objects_3
+    21300008: Shop_Objects_4
+    21300010: Shop_Objects_5
+    21300012: Shop_Objects_6
+    21300014: Shop_Objects_7
+    21300016: Shop_Objects_8
+    21300018: Shop_Objects_9
+    21300020: Shop_Objects_10
+    21300022: Shop_Objects_11
+    21300024: Shop_Objects_12
+    21300026: Shop_Objects_13
+    21300028: Shop_Objects_14
+    21300030: Shop_Objects_15
+    21300032: Shop_Objects_16
+    21300034: Shop_Objects_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shop_Objects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2632
+        width: 2955
+        height: 1403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -384.5, y: 183.48712}
+        - {x: -384.5, y: -182.51288}
+        - {x: 384.5, y: -182.51288}
+        - {x: 384.5, y: 183.48712}
+    - name: Shop_Objects_1
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 3770
+        width: 2115
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.90698, y: 33.939392}
+        - {x: -274.90698, y: -33.060608}
+        - {x: 276.09302, y: -33.060608}
+        - {x: 276.09302, y: 33.939392}
+    - name: Shop_Objects_2
+      rect:
+        serializedVersion: 2
+        x: 5727
+        y: 3301
+        width: 2148
+        height: 771
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -279.11633, y: 100.969604}
+        - {x: -279.11633, y: -100.030396}
+        - {x: 279.88367, y: -100.030396}
+        - {x: 279.88367, y: 100.969604}
+    - name: Shop_Objects_3
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 3405
+        width: 2115
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.90698, y: 34.516235}
+        - {x: -274.90698, y: -33.483765}
+        - {x: 276.09302, y: -33.483765}
+        - {x: 276.09302, y: 34.516235}
+    - name: Shop_Objects_4
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 3063
+        width: 2115
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.90698, y: 34.574524}
+        - {x: -274.90698, y: -33.425476}
+        - {x: 276.09302, y: -33.425476}
+        - {x: 276.09302, y: 34.574524}
+    - name: Shop_Objects_5
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2697
+        width: 2115
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.90698, y: 34.391235}
+        - {x: -274.90698, y: -33.608765}
+        - {x: 276.09302, y: -33.608765}
+        - {x: 276.09302, y: 34.391235}
+    - name: Shop_Objects_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 2955
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -384.5, y: 183.89188}
+        - {x: -384.5, y: -183.10812}
+        - {x: 383.5, y: -183.10812}
+        - {x: 384.5, y: -182.10812}
+        - {x: 384.5, y: 183.89188}
+    - name: Shop_Objects_7
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2351
+        width: 2119
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -275.4472, y: 34.4093}
+        - {x: -275.4472, y: -33.5907}
+        - {x: 276.5528, y: -33.5907}
+        - {x: 276.5528, y: 34.4093}
+    - name: Shop_Objects_8
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2032
+        width: 2115
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.90698, y: 33.949036}
+        - {x: -274.90698, y: -33.050964}
+        - {x: 276.09302, y: -33.050964}
+        - {x: 276.09302, y: 33.949036}
+    - name: Shop_Objects_9
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 2059
+        width: 2119
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -275.46533, y: 34.470764}
+        - {x: -275.46533, y: -33.529236}
+        - {x: 276.53467, y: -33.529236}
+        - {x: 276.53467, y: 34.470764}
+    - name: Shop_Objects_10
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 1705
+        width: 2115
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -274.90698, y: 34.408264}
+        - {x: -274.90698, y: -33.591736}
+        - {x: 276.09302, y: -33.591736}
+        - {x: 276.09302, y: 34.408264}
+    - name: Shop_Objects_11
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 1698
+        width: 2119
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -275.46533, y: 34.08783}
+        - {x: -275.46533, y: -32.91217}
+        - {x: 276.53467, y: -32.91217}
+        - {x: 276.53467, y: 34.08783}
+    - name: Shop_Objects_12
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 1355
+        width: 2119
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -275.46533, y: 33.886047}
+        - {x: -275.46533, y: -33.113953}
+        - {x: 276.53467, y: -33.113953}
+        - {x: 276.53467, y: 33.886047}
+    - name: Shop_Objects_13
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 990
+        width: 2119
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -275.46533, y: 34.46286}
+        - {x: -275.46533, y: -33.53714}
+        - {x: 276.53467, y: -33.53714}
+        - {x: 276.53467, y: 34.46286}
+    - name: Shop_Objects_14
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 644
+        width: 2119
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -275.46533, y: 33.980896}
+        - {x: -275.46533, y: -33.019104}
+        - {x: 276.53467, y: -33.019104}
+        - {x: 276.53467, y: 33.980896}
+    - name: Shop_Objects_15
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 321
+        width: 2119
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -275.46533, y: 34.480385}
+        - {x: -275.46533, y: -33.519615}
+        - {x: 276.53467, y: -33.519615}
+        - {x: 276.53467, y: 34.480385}
+    - name: Shop_Objects_16
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 0
+        width: 2119
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -275.46533, y: 33}
+        - {x: -275.46533, y: -33}
+        - {x: 276.53467, y: -33}
+        - {x: 276.53467, y: 33}
+    - name: Shop_Objects_17
+      rect:
+        serializedVersion: 2
+        x: 5707
+        y: 3302
+        width: 2168
+        height: 770
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -277.81763, y: 101.229675}
+        - {x: -277.81763, y: -98.770325}
+        - {x: -276.81763, y: -99.770325}
+        - {x: 282.18237, y: -99.770325}
+        - {x: 282.18237, y: 101.229675}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

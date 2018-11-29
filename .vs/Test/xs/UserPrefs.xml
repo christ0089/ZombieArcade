@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/Setups.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/PauseButton.cs" Line="31" Column="65" />
+      <File FileName="Assets/Scripts/Managers/ScoreManager.cs" Line="18" Column="27" />
+      <File FileName="Assets/ShopManager.cs" Line="78" Column="14" />
+      <File FileName="Assets/Scripts/Player/CharacterMovement.cs" Line="26" Column="13" />
+      <File FileName="Assets/Scripts/Weapons/BulletController.cs" Line="39" Column="2" />
+      <File FileName="Assets/Scripts/Weapons/CollisionBullet.cs" Line="25" Column="2" />
+      <File FileName="Assets/Scripts/Weapons/RiffleBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapons/SelectedWeapon.cs" Line="37" Column="10" />
+      <File FileName="Assets/Scripts/Zombie/ZombieMechanism.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Zombie/ZombieSkin.cs" Line="28" Column="3" />
+      <File FileName="Assets/Scripts/Rotation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Managers/ScrollRectSnap1.cs" Line="2" Column="26" />
+      <File FileName="Assets/CharacterSpecs.cs" Line="40" Column="32" />
+      <File FileName="Assets/Scripts/Managers/SaveAndLoad.cs" Line="56" Column="55" />
+      <File FileName="Assets/Scripts/Weapons/BazookaBullet.cs" Line="85" Column="14" />
+      <File FileName="Assets/Scripts/Collision/CollissionWater.cs" Line="31" Column="10" />
+      <File FileName="Assets/Scripts/NewObjectPoolerScript.cs" Line="43" Column="66" />
+      <File FileName="Assets/Scripts/Managers/Setups.cs" Line="29" Column="63" />
+      <File FileName="Assets/Scripts/Managers/SelfDestruct.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Managers/ButtonManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Managers/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Managers/GameOverManager.cs" Line="33" Column="2" />
+      <File FileName="Assets/Scripts/Managers/GetZombieFromPool.cs" Line="24" Column="9" />
+      <File FileName="Assets/Scripts/Collision/CollissionCoin.cs" Line="16" Column="49" />
+      <File FileName="Assets/Scripts/Collision/CollisionHealth.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/Managers/Respawn.cs" Line="26" Column="2" />
+      <File FileName="Assets/Scripts/Player/SurvivorClass.cs" Line="28" Column="81" />
+      <File FileName="Assets/Scripts/Animations/Animate.cs" Line="23" Column="2" />
+      <File FileName="Assets/Scripts/Animations/AnimateZCounter.cs" Line="15" Column="28" />
+      <File FileName="Assets/Scripts/Animations/LightChange.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
